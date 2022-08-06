@@ -1,2 +1,2 @@
 # Daire-alan-ve-cevre
-## www.ptaika.dev
+## www.patika.dev
